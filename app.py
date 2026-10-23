@@ -7,6 +7,8 @@ import html
 import random
 from sklearn.metrics.pairwise import cosine_similarity
 
+
+
 DATA_DIR  = "data"
 MODEL_DIR = "models"
 
