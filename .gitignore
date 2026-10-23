@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.DS_Store
+app_backup.py
+.venv/
+venv/
+env/
